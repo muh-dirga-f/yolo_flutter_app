@@ -1,6 +1,6 @@
-description: Ultralytics best model trained on /content/dataset/dataset.yaml
+description: Ultralytics best model trained on /content/dataset_augmented/dataset.yaml
 author: Ultralytics
-date: '2024-11-03T01:40:11.264908'
+date: '2024-11-03T13:16:30.107727'
 version: 8.3.27
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
@@ -11,27 +11,17 @@ imgsz:
 - 320
 - 320
 names:
-  0: .
-  1: a
-  2: ba
-  3: ca
-  4: da
-  5: ga
-  6: ha
-  7: ja
-  8: ka
-  9: la
-  10: ma
-  11: mpa
-  12: na
-  13: nca
-  14: nga
-  15: ngka
-  16: nra
-  17: nya
-  18: pa
-  19: ra
-  20: sa
-  21: ta
-  22: wa
-  23: ya
+  0: 100000B
+  1: 100000D
+  2: 10000B
+  3: 10000D
+  4: 1000B
+  5: 1000D
+  6: 20000B
+  7: 20000D
+  8: 2000B
+  9: 2000D
+  10: 50000B
+  11: 50000D
+  12: 5000B
+  13: 5000D

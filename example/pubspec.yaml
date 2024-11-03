@@ -48,7 +48,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/best_int8.tflite
+    - assets/best_float16.tflite
     - assets/metadata.yaml
     # - assets/mata_uang/best_int8.tflite
     # - assets/mata_uang/metadata.yaml

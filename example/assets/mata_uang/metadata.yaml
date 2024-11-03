@@ -1,6 +1,6 @@
-description: Ultralytics YOLO11n model trained on /content/dataset/dataset/dataset.yaml
+description: Ultralytics best model trained on /content/dataset_augmented/dataset.yaml
 author: Ultralytics
-date: '2024-11-03T04:04:23.864373'
+date: '2024-11-03T13:16:30.107727'
 version: 8.3.27
 license: AGPL-3.0 License (https://ultralytics.com/license)
 docs: https://docs.ultralytics.com
