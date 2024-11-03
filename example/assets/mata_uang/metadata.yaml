@@ -1,0 +1,27 @@
+description: Ultralytics YOLO11n model trained on /content/dataset/dataset/dataset.yaml
+author: Ultralytics
+date: '2024-11-03T04:04:23.864373'
+version: 8.3.27
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 320
+- 320
+names:
+  0: 100000B
+  1: 100000D
+  2: 10000B
+  3: 10000D
+  4: 1000B
+  5: 1000D
+  6: 20000B
+  7: 20000D
+  8: 2000B
+  9: 2000D
+  10: 50000B
+  11: 50000D
+  12: 5000B
+  13: 5000D
